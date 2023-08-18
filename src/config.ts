@@ -31,7 +31,7 @@ const config: DefaultConfigProps = {
   background_url: "https://unsplash.com/random",
   description: "天下武功 唯快不破",
   logo: "",
-  api: "https://38d0c8e17c1add34.cdn.jiashule.com",
+  api: "https://aliair.xyz",
   languages: ["zh-CN", "en-US"],
   googleAnalytics: {
     measurementId: getGA()
